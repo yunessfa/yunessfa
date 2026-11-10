@@ -214,3 +214,9 @@
 <p align="left">
   <b>If you have an idea that deserves to be built properly, let's talk. 🚀</b>
 </p>
+
+<p align="left">
+  <a href="mailto:yunessfa@gmail.com"><img src="https://img.shields.io/badge/Email-yunessfa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/yunessfa"><img src="https://img.shields.io/badge/Telegram-%40yunessfa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/yunessfarahbakhsh"><img src="https://img.shields.io/badge/Instagram-yunessfarahbakhsh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
